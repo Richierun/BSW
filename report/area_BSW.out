@@ -1,0 +1,32 @@
+ 
+****************************************
+Report : area
+Design : BSW
+Version: U-2022.12
+Date   : Mon Jun 26 16:14:13 2023
+****************************************
+
+Information: Updating design information... (UID-85)
+Warning: Design 'BSW' contains 1 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Library(s) Used:
+
+    fsa0m_a_generic_core_tt1p8v25c (File: /home/raid7_2/userb09/b09194/ICDE_Final/fsa0m_a_generic_core_tt1p8v25c.db)
+
+Number of ports:                          803
+Number of nets:                         19534
+Number of cells:                        18718
+Number of combinational cells:          15015
+Number of sequential cells:              3683
+Number of macros/black boxes:               0
+Number of buf/inv:                       4924
+Number of references:                     143
+
+Combinational area:             236756.721778
+Buf/Inv area:                    45837.690739
+Noncombinational area:          218745.376419
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                455502.098197
+Total area:                 undefined
+1
